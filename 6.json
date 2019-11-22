@@ -6,3 +6,5 @@ https://devinspekt.search.windows.net/indexes/uat-azuresql-index-inspekt-inspect
 
 &search=(BaseInformation:("\"rego\":\"UO4962\""  AND  "\"vin\":\"JHDFD3HLKXXX10200\""  AND  "\"year\":\"1996\""))
 &$filter= TenantId eq 'ef7a6aab-e8aa-4bd5-b9eb-f92a433e194b'
+
+// ahihi
