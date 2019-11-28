@@ -93,3 +93,6 @@ if( equals(outputs('Compose_-_Customer_Information')?['schemaData']?['customerIn
 
 
 body('Get_Location_By_ExternalId')?['extendedInformation']?['FieldPinePosCustomerId']
+
+
+https://devinspekt.search.windows.net/indexes/uat-azuresql-index-inspekt-inspection/docs?api-version=2017-11-11&searchFields=BaseInformation&searchMode=all&queryType=full&search=(BaseInformation:("\"rego\":\"UO4962\""  AND  "\"vin\":\"JHDFD3HLKXXX10200\""))  &$filter= TenantId eq 'ef7a6aab-e8aa-4bd5-b9eb-f92a433e194b'Deleted eq false and 
